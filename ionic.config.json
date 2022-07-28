@@ -1,0 +1,7 @@
+{
+  "name": "tabsAppA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
